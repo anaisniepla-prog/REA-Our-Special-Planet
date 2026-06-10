@@ -1,0 +1,1112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>flux</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>202606102016094OFRJP</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260610201609V8PACY</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>OUR SPECIAL PLANET</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Detectives de nuestro planeta azul</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Ana Nieves Plaza</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>REA dirigido al curso de 2º de E. Primaria, donde se realizará la investigación de los componentes físicos de la tierra (geosfera, hidrosfera y atmósfera) destacando la importancia del agua en sus tres estados (sólido, líquido, gaseoso y sus procesos de cambio) ciclo del agua y fomento de protección y conservación del medio ambiente.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>flux</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1781115254773</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mq8e1a0u-80vzfn4yn</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Presentación y descripción del proyecto</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación y descripción del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación y descripción del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq8e1a0u-80vzfn4yn</odePageId>
+      <odeBlockId>block-1780845198287-lksjaoz98</odeBlockId>
+      <blockName>Misión rescate: &quot;Nos convertimos en guardianes&quot;</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq8e1a0u-80vzfn4yn</odePageId>
+          <odeBlockId>block-1780845198287-lksjaoz98</odeBlockId>
+          <odeIdeviceId>idevice-1780845198283-xini8oawv</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>¿De qué está fabricado nuestro planeta y por qué nunca se le acaba el agua?</p>
+<p>Con esta pregunta se pretende introducir las rocas y minerales, así como el ciclo del agua como algo "mágico" a su vez estudiaremos los estados del agua y función de la atmósfera y protección de nuestro planeta.</p>
+<p><img src="{{context_path}}/content/resources/ciclo del agua.png" title="Ciclo del agua" width="768" height="543" alt="Proceso representativo del ciclo del agua" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780845198283-xini8oawv","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>¿De qué está fabricado nuestro planeta y por qué nunca se le acaba el agua?</p>\n<p>Con esta pregunta se pretende introducir las rocas y minerales, así como el ciclo del agua como algo \"mágico\" a su vez estudiaremos los estados del agua y función de la atmósfera y protección de nuestro planeta.</p>\n<p><img src=\"{{context_path}}/content/resources/ciclo del agua.png\" title=\"Ciclo del agua\" width=\"768\" height=\"543\" alt=\"Proceso representativo del ciclo del agua\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq8e1a10-f0rxcbej9</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Infografía</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Infografía</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Página nueva</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Infografía</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq8e1a10-f0rxcbej9</odePageId>
+      <odeBlockId>block-1780844696154-76f8xsec9</odeBlockId>
+      <blockName>Protección de derechos personales y garantías de derechos digitales</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq8e1a10-f0rxcbej9</odePageId>
+          <odeBlockId>block-1780844696154-76f8xsec9</odeBlockId>
+          <odeIdeviceId>idevice-1780844696148-7avwn69p3</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://view.genially.com/69fb80fef2960d779b2538a8" size="2" width="600" height="300" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq8e1a12-qn3u20pi2</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Descripción del producto final que vamos a elaborar</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descripción del producto final que vamos a elaborar</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descripción del producto final que vamos a elaborar</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq8e1a12-qn3u20pi2</odePageId>
+      <odeBlockId>block-1780846142542-llafsrji1</odeBlockId>
+      <blockName>Maqueta interactiva y carnet defensor/a del medio ambiente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq8e1a12-qn3u20pi2</odePageId>
+          <odeBlockId>block-1780846142542-llafsrji1</odeBlockId>
+          <odeIdeviceId>idevice-1780846142536-3dq18od3z</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Elaboración de una maqueta interactiva sobre el ciclo del agua, unido a un carnet de defensor/a del medio ambiente. Para ello utilizaremos la herramienta ChatterPix Kids,  tomaremos una foto, dibujaremos una línea sobre la "boca" y grabaremos un audio con una duración de hasta 30 segundos. Como resultado tenemos un video corto donde el objeto de la foto parece hablar. </p>
+<p>Para la maqueta "parlante" tomamos foto del proceso dibujado o de foto real que represente el ciclo del agua y grabaremos diferentes audios que expliquen la evaporación, condensación y precipitación. Los videos generados se pueden convertir en códigos QR que los mismos se pegan sobre la maqueta física y cualquier persona que vea la maqueta puede escuchar el ciclo del agua.</p>
+<p>Para el carnet de defensor/a del medio ambiente tomareis una foto del dibujo de defensor/a que habéis dibujado de vosotros/as mismos/as recitando vuestro juramento ambiental de protección hacia el planeta.</p>
+<p></p>
+<p><img src="{{context_path}}/content/resources/maqueta ciclo del agua.jfif" title="Maqueta ciclo del agua" width="201" height="251" alt="Maqueta/producto final" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780846142536-3dq18od3z","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Elaboración de una maqueta interactiva sobre el ciclo del agua, unido a un carnet de defensor/a del medio ambiente. Para ello utilizaremos la herramienta ChatterPix Kids,  tomaremos una foto, dibujaremos una línea sobre la \"boca\" y grabaremos un audio con una duración de hasta 30 segundos. Como resultado tenemos un video corto donde el objeto de la foto parece hablar. </p>\n<p>Para la maqueta \"parlante\" tomamos foto del proceso dibujado o de foto real que represente el ciclo del agua y grabaremos diferentes audios que expliquen la evaporación, condensación y precipitación. Los videos generados se pueden convertir en códigos QR que los mismos se pegan sobre la maqueta física y cualquier persona que vea la maqueta puede escuchar el ciclo del agua.</p>\n<p>Para el carnet de defensor/a del medio ambiente tomareis una foto del dibujo de defensor/a que habéis dibujado de vosotros/as mismos/as recitando vuestro juramento ambiental de protección hacia el planeta.</p>\n<p></p>\n<p><img src=\"{{context_path}}/content/resources/maqueta ciclo del agua.jfif\" title=\"Maqueta ciclo del agua\" width=\"201\" height=\"251\" alt=\"Maqueta/producto final\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq8e1a15-mbh5iuov4</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Curación de contenido</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Curación de contenido</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Curación de contenido</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq8e1a15-mbh5iuov4</odePageId>
+      <odeBlockId>block-1780847484023-piezweuu9</odeBlockId>
+      <blockName>Padlet</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq8e1a15-mbh5iuov4</odePageId>
+          <odeBlockId>block-1780847484023-piezweuu9</odeBlockId>
+          <odeIdeviceId>idevice-1780847484020-ps0z8kx7v</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://padlet.com/anaisniepla/detectives-de-nuestro-planeta-azul-mision-rescate-nos-conver-h3dka4fp3lt2r67q" size="2" width="600" height="300" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mq8e1a15-mbh5iuov4</odePageId>
+      <odeBlockId>block-1780848511863-mvut7fxzw</odeBlockId>
+      <blockName>Symbaloo</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq8e1a15-mbh5iuov4</odePageId>
+          <odeBlockId>block-1780848511863-mvut7fxzw</odeBlockId>
+          <odeIdeviceId>idevice-1780848511861-tbnakc3rq</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="https://www.symbaloo.com/shared/AAAAAyxicWAAA41_W3YdcA==" title="Symbaloo">https://www.symbaloo.com/shared/AAAAAyxicWAAA41_W3YdcA==</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780848511861-tbnakc3rq","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://www.symbaloo.com/shared/AAAAAyxicWAAA41_W3YdcA==\" title=\"Symbaloo\">https://www.symbaloo.com/shared/AAAAAyxicWAAA41_W3YdcA==</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq8e1a18-lz3n0zdcb</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Línea temporal</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq8e1a18-lz3n0zdcb</odePageId>
+      <odeBlockId>block-1780849050013-ggmgjanby</odeBlockId>
+      <blockName>Línea temporal</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq8e1a18-lz3n0zdcb</odePageId>
+          <odeBlockId>block-1780849050013-ggmgjanby</odeBlockId>
+          <odeIdeviceId>idevice-1780849050012-ww34v6h0g</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/Mapa Mental .png" title="Mapa mental" width="1536" height="864" alt="Línea temporal" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780849050012-ww34v6h0g","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/Mapa Mental .png\" title=\"Mapa mental\" width=\"1536\" height=\"864\" alt=\"Línea temporal\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq8e1a19-kc7ktrgvv</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Asociamos tareas a criterios de evaluación</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Asociamos tareas a criterios de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Asociamos tareas a criterios de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq8e1a19-kc7ktrgvv</odePageId>
+      <odeBlockId>block-1780849577181-dx7ir9ylv</odeBlockId>
+      <blockName>Criterios de evaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq8e1a19-kc7ktrgvv</odePageId>
+          <odeBlockId>block-1780849577181-dx7ir9ylv</odeBlockId>
+          <odeIdeviceId>idevice-1780849577179-xch2j78og</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>1. Tarea: El video misterioso y exploradores de la app.</strong><br /></p>
+<p><em>Criterios de evaluación:</em></p>
+<p>1.1.b. Utilizar dispositivos y recursos digitales de acuerdo con las necesidades del contexto educativo de forma segura.</p>
+<p>2.1.b. Mostrar curiosidad por objetos, hechos y fenómenos cercanos, formulando preguntas y realizando predicciones.</p>
+<p>2.4.b. Dar ejemplos de posibles respuestas a las preguntas planteadas, comparando la información y resultados obtenidos con las predicciones realizadas.</p>
+<p><strong>2. Tarea:  Lectura guiada water cycle y experimento ¿Cómo se forma la lluvia? y los procesos de evaporación, condensación y precipitación.</strong><br /></p>
+<p><em>Criterios de evaluación:</em></p>
+<p>1.1.b. Utilizar dispositivos y recursos digitales de acuerdo con las necesidades del contexto educativo de forma segura.</p>
+<p>2.3.b. Participar en experimentos pautados o guiados, cuando la investigación lo requiera, utilizando diferentes técnicas sencillas de indagación, empleando de forma segura instrumentos y registrando las observaciones a través de registros claros.</p>
+<p>2.5.b. Comunicar de forma oral o gráfica el resultado de las investigaciones, explicando los pasos seguidos con ayuda de un guión.</p>
+<p><strong>3. Tarea: El ciclo urbano y Aqualogía</strong></p>
+<p><em>Criterios de evaluación:</em></p>
+<p>1.1.b. Utilizar dispositivos y recursos digitales de acuerdo con las necesidades del contexto educativo de forma segura.</p>
+<p>2.1.b. Mostrar curiosidad por objetos, hechos y fenómenos cercanos, formulando preguntas y realizando predicciones.</p>
+<p>2.2.b. Buscar información sencilla de diferentes fuentes seguras y fiables de forma guiada, utilizándola en investigaciones relacionadas con el medio natural, social y cultural.</p>
+<p><strong>4. Tarea: El debate de los guardianes del Planeta.</strong></p>
+<p><em>Criterios de evaluación:</em></p>
+<p>1.1.b. Utilizar dispositivos y recursos digitales de acuerdo con las necesidades del contexto educativo de forma segura.</p>
+<p>2.4.b. Dar ejemplos de posibles respuestas a las preguntas planteadas, comparando la información y resultados obtenidos con las predicciones realizadas.</p>
+<p>6.1.b. Mostrar estilos de vida sostenible y valorar la importancia del respeto, los cuidados, la corresponsabilidad y la protección de los elementos y seres del planeta, identificando la relación de la vida de las personas con sus acciones sobre los elementos y recursos del medio como el suelo y el agua.</p>
+<p><strong>5. Tarea: Diseñando nuestra maqueta.</strong></p>
+<p><em>Criterios de evaluación:</em></p>
+<p>1.1.b. Utilizar dispositivos y recursos digitales de acuerdo con las necesidades del contexto educativo de forma segura.</p>
+<p>2.2.b. Buscar información sencilla de diferentes fuentes seguras y fiables de forma guiada, utilizándola en investigaciones relacionadas con el medio natural, social y cultural.</p>
+<p>5.2.b. Reconocer conexiones sencillas y directas entre diferentes elementos del medio natural, social y cultural, por medio de la observación, la manipulación y la experimentación, de los principales cambios y adaptaciones que ha ido desarrollando el ser humano para sus necesidades.</p>
+<p><strong>6. Tarea: Manos a la obra: construcción de la maqueta.</strong></p>
+<p><em>Criterios de evaluación:</em></p>
+<p>1.1.b. Utilizar dispositivos y recursos digitales de acuerdo con las necesidades del contexto educativo de forma segura.</p>
+<p>2.2.b. Buscar información sencilla de diferentes fuentes seguras y fiables de forma guiada, utilizándola en investigaciones relacionadas con el medio natural, social y cultural.</p>
+<p>5.2.b. Reconocer conexiones sencillas y directas entre diferentes elementos del medio natural, social y cultural, por medio de la observación, la manipulación y la experimentación, de los principales cambios y adaptaciones que ha ido desarrollando el ser humano para sus necesidades.</p>
+<p><strong>7. Tarea: Digitalizamos nuestra maqueta.</strong></p>
+<p><em>Criterios de evaluación:</em></p>
+<p>1.1.b. Utilizar dispositivos y recursos digitales de acuerdo con las necesidades del contexto educativo de forma segura.</p>
+<p>2.2.b. Buscar información sencilla de diferentes fuentes seguras y fiables de forma guiada, utilizándola en investigaciones relacionadas con el medio natural, social y cultural.</p>
+<p>2.5.b. Comunicar de forma oral o gráfica el resultado de las investigaciones, explicando los pasos seguidos con ayuda de un guión.</p>
+<p><strong>8. Tarea: Diseño del carnet de defensor/a del medio ambiente.</strong></p>
+<p><em>Criterios de evaluación: </em></p>
+<p>1.1.b. Utilizar dispositivos y recursos digitales de acuerdo con las necesidades del contexto educativo de forma segura.</p>
+<p>2.2.b. Buscar información sencilla de diferentes fuentes seguras y fiables de forma guiada, utilizándola en investigaciones relacionadas con el medio natural, social y cultural.</p>
+<p>6.1.b. Mostrar estilos de vida sostenible y valorar la importancia del respeto, los cuidados, la corresponsabilidad y la protección de los elementos y seres del planeta, identificando la relación de la vida de las personas con sus acciones sobre los elementos y recursos del medio como el suelo y el agua.</p>
+<p><strong>9. Tarea: El gran reto de Educaplay.</strong></p>
+<p><em>Criterios de evaluación:</em></p>
+<p>1.1.b. Utilizar dispositivos y recursos digitales de acuerdo con las necesidades del contexto educativo de forma segura.</p>
+<p>5.1.b. Reconocer las características, la organización y las propiedades de los elementos del medio natural, social y cultural a través de metodologías de indagación, utilización de herramientas y procesos adecuados de forma pautada, comprendiendo y valorando su riqueza y diversidad.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780849577179-xch2j78og","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>1. Tarea: El video misterioso y exploradores de la app.</strong><br /></p>\n<p><em>Criterios de evaluación:</em></p>\n<p>1.1.b. Utilizar dispositivos y recursos digitales de acuerdo con las necesidades del contexto educativo de forma segura.</p>\n<p>2.1.b. Mostrar curiosidad por objetos, hechos y fenómenos cercanos, formulando preguntas y realizando predicciones.</p>\n<p>2.4.b. Dar ejemplos de posibles respuestas a las preguntas planteadas, comparando la información y resultados obtenidos con las predicciones realizadas.</p>\n<p><strong>2. Tarea:  Lectura guiada water cycle y experimento ¿Cómo se forma la lluvia? y los procesos de evaporación, condensación y precipitación.</strong><br /></p>\n<p><em>Criterios de evaluación:</em></p>\n<p>1.1.b. Utilizar dispositivos y recursos digitales de acuerdo con las necesidades del contexto educativo de forma segura.</p>\n<p>2.3.b. Participar en experimentos pautados o guiados, cuando la investigación lo requiera, utilizando diferentes técnicas sencillas de indagación, empleando de forma segura instrumentos y registrando las observaciones a través de registros claros.</p>\n<p>2.5.b. Comunicar de forma oral o gráfica el resultado de las investigaciones, explicando los pasos seguidos con ayuda de un guión.</p>\n<p><strong>3. Tarea: El ciclo urbano y Aqualogía</strong></p>\n<p><em>Criterios de evaluación:</em></p>\n<p>1.1.b. Utilizar dispositivos y recursos digitales de acuerdo con las necesidades del contexto educativo de forma segura.</p>\n<p>2.1.b. Mostrar curiosidad por objetos, hechos y fenómenos cercanos, formulando preguntas y realizando predicciones.</p>\n<p>2.2.b. Buscar información sencilla de diferentes fuentes seguras y fiables de forma guiada, utilizándola en investigaciones relacionadas con el medio natural, social y cultural.</p>\n<p><strong>4. Tarea: El debate de los guardianes del Planeta.</strong></p>\n<p><em>Criterios de evaluación:</em></p>\n<p>1.1.b. Utilizar dispositivos y recursos digitales de acuerdo con las necesidades del contexto educativo de forma segura.</p>\n<p>2.4.b. Dar ejemplos de posibles respuestas a las preguntas planteadas, comparando la información y resultados obtenidos con las predicciones realizadas.</p>\n<p>6.1.b. Mostrar estilos de vida sostenible y valorar la importancia del respeto, los cuidados, la corresponsabilidad y la protección de los elementos y seres del planeta, identificando la relación de la vida de las personas con sus acciones sobre los elementos y recursos del medio como el suelo y el agua.</p>\n<p><strong>5. Tarea: Diseñando nuestra maqueta.</strong></p>\n<p><em>Criterios de evaluación:</em></p>\n<p>1.1.b. Utilizar dispositivos y recursos digitales de acuerdo con las necesidades del contexto educativo de forma segura.</p>\n<p>2.2.b. Buscar información sencilla de diferentes fuentes seguras y fiables de forma guiada, utilizándola en investigaciones relacionadas con el medio natural, social y cultural.</p>\n<p>5.2.b. Reconocer conexiones sencillas y directas entre diferentes elementos del medio natural, social y cultural, por medio de la observación, la manipulación y la experimentación, de los principales cambios y adaptaciones que ha ido desarrollando el ser humano para sus necesidades.</p>\n<p><strong>6. Tarea: Manos a la obra: construcción de la maqueta.</strong></p>\n<p><em>Criterios de evaluación:</em></p>\n<p>1.1.b. Utilizar dispositivos y recursos digitales de acuerdo con las necesidades del contexto educativo de forma segura.</p>\n<p>2.2.b. Buscar información sencilla de diferentes fuentes seguras y fiables de forma guiada, utilizándola en investigaciones relacionadas con el medio natural, social y cultural.</p>\n<p>5.2.b. Reconocer conexiones sencillas y directas entre diferentes elementos del medio natural, social y cultural, por medio de la observación, la manipulación y la experimentación, de los principales cambios y adaptaciones que ha ido desarrollando el ser humano para sus necesidades.</p>\n<p><strong>7. Tarea: Digitalizamos nuestra maqueta.</strong></p>\n<p><em>Criterios de evaluación:</em></p>\n<p>1.1.b. Utilizar dispositivos y recursos digitales de acuerdo con las necesidades del contexto educativo de forma segura.</p>\n<p>2.2.b. Buscar información sencilla de diferentes fuentes seguras y fiables de forma guiada, utilizándola en investigaciones relacionadas con el medio natural, social y cultural.</p>\n<p>2.5.b. Comunicar de forma oral o gráfica el resultado de las investigaciones, explicando los pasos seguidos con ayuda de un guión.</p>\n<p><strong>8. Tarea: Diseño del carnet de defensor/a del medio ambiente.</strong></p>\n<p><em>Criterios de evaluación: </em></p>\n<p>1.1.b. Utilizar dispositivos y recursos digitales de acuerdo con las necesidades del contexto educativo de forma segura.</p>\n<p>2.2.b. Buscar información sencilla de diferentes fuentes seguras y fiables de forma guiada, utilizándola en investigaciones relacionadas con el medio natural, social y cultural.</p>\n<p>6.1.b. Mostrar estilos de vida sostenible y valorar la importancia del respeto, los cuidados, la corresponsabilidad y la protección de los elementos y seres del planeta, identificando la relación de la vida de las personas con sus acciones sobre los elementos y recursos del medio como el suelo y el agua.</p>\n<p><strong>9. Tarea: El gran reto de Educaplay.</strong></p>\n<p><em>Criterios de evaluación:</em></p>\n<p>1.1.b. Utilizar dispositivos y recursos digitales de acuerdo con las necesidades del contexto educativo de forma segura.</p>\n<p>5.1.b. Reconocer las características, la organización y las propiedades de los elementos del medio natural, social y cultural a través de metodologías de indagación, utilización de herramientas y procesos adecuados de forma pautada, comprendiendo y valorando su riqueza y diversidad.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq8e1a1c-nj9tqgwdp</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Instrumentos de evaluación</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq8e1a1c-nj9tqgwdp</odePageId>
+      <odeBlockId>block-1780850632927-re60pg1mi</odeBlockId>
+      <blockName>Lista de cotejo y rúbrica</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq8e1a1c-nj9tqgwdp</odePageId>
+          <odeBlockId>block-1780850632927-re60pg1mi</odeBlockId>
+          <odeIdeviceId>idevice-1780850632924-d1sn9w8y1</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1780850632924-d1sn9w8y1" title="" href="{{context_path}}/content/resources/lista de cotejo 1.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/lista de cotejo 1.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_1" class="imageContainer"> <a idevice-id="idevice-1780850632924-d1sn9w8y1" title="" href="{{context_path}}/content/resources/lista de cotejo 2.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/lista de cotejo 2.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_2" class="imageContainer"> <a idevice-id="idevice-1780850632924-d1sn9w8y1" title="" href="{{context_path}}/content/resources/Rúbrica video interactivo y uso de aplicaciones.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Rúbrica video interactivo y uso de aplicaciones.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780850632924-d1sn9w8y1","img_0":{"img":"{{context_path}}/content/resources/lista de cotejo 1.png","thumbnail":"{{context_path}}/content/resources/lista de cotejo 1.png","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_1":{"img":"{{context_path}}/content/resources/lista de cotejo 2.png","thumbnail":"{{context_path}}/content/resources/lista de cotejo 2.png","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_2":{"img":"{{context_path}}/content/resources/Rúbrica video interactivo y uso de aplicaciones.png","thumbnail":"{{context_path}}/content/resources/Rúbrica video interactivo y uso de aplicaciones.png","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq8e1a1d-pahhrc5wh</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía didáctica</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq8e1a1d-pahhrc5wh</odePageId>
+      <odeBlockId>block-1780851170974-29xcugfr8</odeBlockId>
+      <blockName>Cuidamos la tierra y el agua</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq8e1a1d-pahhrc5wh</odePageId>
+          <odeBlockId>block-1780851170974-29xcugfr8</odeBlockId>
+          <odeIdeviceId>idevice-1780851170972-xk1ej3qf9</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <table border="1" style="width: 100%;">
+<tbody>
+<tr>
+<td style="width: 49.9543%;"><strong>Presentación</strong><br /></td>
+<td style="width: 49.9543%;">
+<p>¡Bienvenidos a la aventura de descubrir nuestro planeta! En esta situación de aprendizaje el alumnado de 2º de Educación Primaria se convertirá en "Guardianes de la Tierra". A lo largo de las sesiones, exploraremos el mundo de las rocas y los minerales, descubriremos los viajes y estados del agua y aprenderemos porque es vital proteger nuestro planeta.</p>
+<p>Duración estimada: Unas 3 semanas (9 sesiones)</p>
+</td>
+</tr>
+<tr>
+<td style="width: 49.9543%;"><strong>Objetivos</strong><br /></td>
+<td style="width: 49.9543%;">
+<p>Identificar y diferenciar algunas rocas y minerales comunes de su entorno.</p>
+<p>Explicar de forma sencilla el ciclo del agua y los tres estados en que se encuentra la materia (sólido, líquido y gaseoso).</p>
+<p>Reconocer la importancia del agua para los seres vivos.</p>
+<p>Proponer y realizar acciones cotidianas para el cuidado del medio ambiente y el ahorro de agua.</p>
+</td>
+</tr>
+<tr>
+<td style="width: 49.9543%;"><strong>Contenidos</strong></td>
+<td style="width: 49.9543%;">
+<p>Rocas y minerales.</p>
+<p>El agua en la naturaleza.</p>
+<p>Conservación y cuidado del medio Ambiente.</p>
+</td>
+</tr>
+<tr>
+<td style="width: 49.9543%;"><strong>Metodología/Actividades</strong><br /></td>
+<td style="width: 49.9543%;">
+<p>Se dividirá el contenido en 3 bloques de 3 sesiones cada uno.</p>
+<p>Bloque 1 "Los tesoros de la Tierra" (rocas y minerales): En la sesión 1, presentamos el tema, traemos rocas al aula, observamos su dureza, brillo, color utilizando lupas. En la sesión 2, Clasificamos en la pizarra digital de forma interactiva, observamos sus diferencias. En la sesión 3, buscamos objetos en el aula hechos con rocas y minerales y su utilidad (tizas, paredes, joyas).</p>
+<p>Bloque 2 "El viajes del agua" (estados y ciclo): En la sesión 4, visualizamos un video interactivo sobre el ciclo del agua, escuchamos la canción de water cycle, exploramos la aplicación ¡Agua va!. En la sesión 5, realizamos lectura y comprensión de la lectura (the water cycle) y experimento de como se forma la lluvia. En la sesión 6, diseñamos y planificamos nuestra maqueta interactiva del ciclo del agua. En la sesión 7, digitalizamos nuestra maqueta interactiva y exploramos las aplicaciones el ciclo urbano y Aqualogía.</p>
+<p>Bloque 3 "Guardianes del Planeta (el Medio Ambiente): En la sesión 8, realizamos un debate sobre cuidado del medio ambiente, estudiamos la regla de las 5R y aprendemos a reciclar utilizando correctamente los contenedores de colores. En la sesión 9, diseñamos y elaboramos nuestro carnet de defendor/a del medio ambiente.</p>
+</td>
+</tr>
+<tr>
+<td style="width: 49.9543%;"><strong>Evaluación</strong><br /></td>
+<td style="width: 49.9543%;">
+<p>La evaluación será continua y formativa, utilizando diversidad de técnicas e instrumentos adaptados al nivel del alumnado algunos como: técnica de observación con el instrumento lista de cotejo, registro anécdotico, rúbrica, escala de estimación, etc. Técnica de análisis de producciones de los alumnos/as mediante el instrumento rúbrica pictográfica o visual y portfolio físico.</p>
+<p>Técnica de intercambios orales (diálogos, debates, asambleas breves) con el instrumento lista de cotejo.</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780851170972-xk1ej3qf9","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<table border=\"1\" style=\"width: 100%;\">\n<tbody>\n<tr>\n<td style=\"width: 49.9543%;\"><strong>Presentación</strong><br /></td>\n<td style=\"width: 49.9543%;\">\n<p>¡Bienvenidos a la aventura de descubrir nuestro planeta! En esta situación de aprendizaje el alumnado de 2º de Educación Primaria se convertirá en \"Guardianes de la Tierra\". A lo largo de las sesiones, exploraremos el mundo de las rocas y los minerales, descubriremos los viajes y estados del agua y aprenderemos porque es vital proteger nuestro planeta.</p>\n<p>Duración estimada: Unas 3 semanas (9 sesiones)</p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 49.9543%;\"><strong>Objetivos</strong><br /></td>\n<td style=\"width: 49.9543%;\">\n<p>Identificar y diferenciar algunas rocas y minerales comunes de su entorno.</p>\n<p>Explicar de forma sencilla el ciclo del agua y los tres estados en que se encuentra la materia (sólido, líquido y gaseoso).</p>\n<p>Reconocer la importancia del agua para los seres vivos.</p>\n<p>Proponer y realizar acciones cotidianas para el cuidado del medio ambiente y el ahorro de agua.</p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 49.9543%;\"><strong>Contenidos</strong></td>\n<td style=\"width: 49.9543%;\">\n<p>Rocas y minerales.</p>\n<p>El agua en la naturaleza.</p>\n<p>Conservación y cuidado del medio Ambiente.</p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 49.9543%;\"><strong>Metodología/Actividades</strong><br /></td>\n<td style=\"width: 49.9543%;\">\n<p>Se dividirá el contenido en 3 bloques de 3 sesiones cada uno.</p>\n<p>Bloque 1 \"Los tesoros de la Tierra\" (rocas y minerales): En la sesión 1, presentamos el tema, traemos rocas al aula, observamos su dureza, brillo, color utilizando lupas. En la sesión 2, Clasificamos en la pizarra digital de forma interactiva, observamos sus diferencias. En la sesión 3, buscamos objetos en el aula hechos con rocas y minerales y su utilidad (tizas, paredes, joyas).</p>\n<p>Bloque 2 \"El viajes del agua\" (estados y ciclo): En la sesión 4, visualizamos un video interactivo sobre el ciclo del agua, escuchamos la canción de water cycle, exploramos la aplicación ¡Agua va!. En la sesión 5, realizamos lectura y comprensión de la lectura (the water cycle) y experimento de como se forma la lluvia. En la sesión 6, diseñamos y planificamos nuestra maqueta interactiva del ciclo del agua. En la sesión 7, digitalizamos nuestra maqueta interactiva y exploramos las aplicaciones el ciclo urbano y Aqualogía.</p>\n<p>Bloque 3 \"Guardianes del Planeta (el Medio Ambiente): En la sesión 8, realizamos un debate sobre cuidado del medio ambiente, estudiamos la regla de las 5R y aprendemos a reciclar utilizando correctamente los contenedores de colores. En la sesión 9, diseñamos y elaboramos nuestro carnet de defendor/a del medio ambiente.</p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 49.9543%;\"><strong>Evaluación</strong><br /></td>\n<td style=\"width: 49.9543%;\">\n<p>La evaluación será continua y formativa, utilizando diversidad de técnicas e instrumentos adaptados al nivel del alumnado algunos como: técnica de observación con el instrumento lista de cotejo, registro anécdotico, rúbrica, escala de estimación, etc. Técnica de análisis de producciones de los alumnos/as mediante el instrumento rúbrica pictográfica o visual y portfolio físico.</p>\n<p>Técnica de intercambios orales (diálogos, debates, asambleas breves) con el instrumento lista de cotejo.</p>\n</td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq8e1a1e-gagmydjfs</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos y descarga</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos y descarga</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos y descarga</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq8e1a1e-gagmydjfs</odePageId>
+      <odeBlockId>block-1781114685801-athwrjno9</odeBlockId>
+      <blockName>Información general sobre este recurso educativo</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq8e1a1e-gagmydjfs</odePageId>
+          <odeBlockId>block-1781114685801-athwrjno9</odeBlockId>
+          <odeIdeviceId>idevice-1781114685797-3y1m5iyci</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">OUR SPECIAL PLANET</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">REA dirigido al curso de 2º de E. Primaria, donde se realizará la investigación de los componentes físicos de la tierra (geosfera, hidrosfera y atmósfera) destacando la importancia del agua en sus tres estados (sólido, líquido, gaseoso y sus procesos de cambio) ciclo del agua y fomento de protección y conservación del medio ambiente.</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Ana Nieves Plaza</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
